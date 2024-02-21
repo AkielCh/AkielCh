@@ -5,10 +5,14 @@ Hey there! 👋 I'm Akiel, an aspiring full-stack developer who is looking for t
 
 ## Skills
 - 💻 **Frontend Development**: Proficient in HTML, CSS, and JavaScript. I have experience in building responsive and user-friendly interfaces.
-- 🛠️ **Backend Development**: Skilled in Node.js and PostgreSQL for creating robust server-side applications and managing databases.
+- 🛠️ **Backend Development**: I have knowledge in PostgreSQL for managing databases.
 - ⚛️ **React**: Familiar with React.js for building dynamic and interactive user interfaces.
 - 🧪 **Testing**: Experienced in using Jest for writing unit tests and ensuring code quality.
 - 📝 **Version Control**: Proficient in using Git and GitHub for version control and collaborative development.
+
+## Let's Connect
+Feel free to reach out if you'd like to collaborate on a project or just to chat 😊
+- LinkedIn: [Akiel Chaudry](www.linkedin.com/in/akiel-chaudry-6666bb156)
 
 ## Projects
 Here are some projects I've worked on
@@ -27,12 +31,12 @@ Here are some projects I've worked on
 - **Presentation**: Watch our presentation [here](https://www.youtube.com/watch?v=VgjWFRf1qFA).
 
  ### Front-End Project: Letter Boxed Solver
- **Letter Boxed Solver** - Description of the project and the technologies used.
+ #### [LIVE APP]
 
-
-
-## Let's Connect
-Feel free to reach out if you'd like to collaborate on a project or just to chat 😊
-- LinkedIn: [Your LinkedIn Profile](www.linkedin.com/in/akiel-chaudry-6666bb156)
+ - **Description**: A solver for the New York Times game [LetterBoxed](https://www.nytimes.com/puzzles/letter-boxed)
+- **Tech Stack**:
+  - **Frontend**: JavaScript, HTML, CSS, Jest
+- **Experience**: In this project I aimed to challenge myself with the use of ideas such as recursion and technologies like the canvas API
+- **Personal Growth**: This project was technically difficult for myself, struggling with different concepts like recursion. However with perceverance I succeeded with what I intended.
 
 Thanks for stopping by! 🚀
