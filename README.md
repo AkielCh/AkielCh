@@ -35,7 +35,8 @@ Here are some projects I've worked on
 
  - **Description**: A solver for the New York Times game [LetterBoxed](https://www.nytimes.com/puzzles/letter-boxed)
 - **Tech Stack**:
-  - **Frontend**: JavaScript, HTML, CSS, Jest
+  - **Frontend**: JavaScript, HTML, CSS,
+  - **Testing**: Jest
 - **Experience**: In this project I aimed to challenge myself with the use of ideas such as recursion and technologies like the canvas API
 - **Personal Growth**: This project was technically difficult for myself, struggling with different concepts like recursion. However with perceverance I succeeded with what I intended.
 
