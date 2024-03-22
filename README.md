@@ -31,7 +31,7 @@ Here are some projects I've worked on
 - **Presentation**: Watch our presentation [here](https://www.youtube.com/watch?v=VgjWFRf1qFA).
 
  ### Front-End Project: Letter Boxed Solver
- #### [LIVE APP]
+ #### https://letterboxedsolver.netlify.app/
 
  - **Description**: A solver for the New York Times game [LetterBoxed](https://www.nytimes.com/puzzles/letter-boxed)
 - **Tech Stack**:
